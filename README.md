@@ -10,7 +10,7 @@ When learning Next.js’s Server Actions feature, I thought I could build a to-d
 
 - TypeScript
 - React.js
-- Next.js
+- Next.js (Server Actions)
 - tailwind
 
 ### Backend
@@ -25,14 +25,20 @@ When learning Next.js’s Server Actions feature, I thought I could build a to-d
 git clone https://github.com/GenuineLukas/todo-list.git
 ```
 
-1. run npm install
+2. run npm install
 
 ```jsx
-https://github.com/GenuineLukas/todo-list.git
+npm install
 ```
 
-1. try npm run dev
+3. try npm run dev (make sure your next.js version is higher than 18.7.0)
 
 ```jsx
 npm run dev
 ```
+
+4. run json-server on your 3001 port
+```
+json-server --watch db.json --port 3001
+```
+
