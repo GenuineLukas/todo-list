@@ -1,5 +1,7 @@
 # Todo List
 
+<img src="/Users/a/Desktop/programming/project_assets/todolist/todolist.gif" alt="todolist gif"/>
+
 ## Introduction
 
 When learning Next.js’s Server Actions feature, I thought I could build a to-do list with this.
