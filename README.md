@@ -8,6 +8,7 @@ When learning Next.js’s Server Actions feature, I thought I could build a to-d
 
 ### FrontEnd
 
+- TypeScript
 - React.js
 - Next.js
 - tailwind
