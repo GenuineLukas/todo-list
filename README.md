@@ -1,6 +1,6 @@
 # Todo List
 
-[![Watch the video]("https://i.ibb.co/P60rPvx/Todo-List-thumnail.png")](https://www.youtube.com/watch?v=c7AlIUf80Ug)
+[![Watch the video](https://i.ibb.co/P60rPvx/Todo-List-thumnail.png)](https://www.youtube.com/watch?v=c7AlIUf80Ug)
 
 ## Introduction
 
