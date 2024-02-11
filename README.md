@@ -1,6 +1,6 @@
 # Todo List
 
-<img src="/Users/a/Desktop/programming/project_assets/todolist/todolist.gif" alt="todolist gif"/>
+<img src="https://i.ibb.co/T4wmXkK/todolist.gif" alt="todolist" border="0" />
 
 ## Introduction
 
